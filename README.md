@@ -20,10 +20,39 @@ Welcome to the **Language Model from Scratch** project! This repository is dedic
 
 ## Installation 💻
 
-First, clone the repository and install the necessary dependencies:
+1. Clone the repository:
+   
+    ```sh
+    git clone https://github.com/javimp2003uma/LLMfromscratch
+    ```
+3. Navigate to the project directory:
+   
+    ```sh
+    cd LLMfromscratch
+    ```
+6. (Optional) Create a virtual environment:
 
-```bash
-git clone https://github.com/yourusername/llm-from-scratch.git
-cd llm-from-scratch
-pip install -r requirements.txt
+   ```sh
+    python -m venv venv
+    .\venv\Scripts\activate  # On macOS/Linux use 'python -m venv venv
+                                                   source venv/bin/activate'
+    ```
+
+5. Select venv as your python interpreter (in VSC):
+   
+    ```sh
+    > Python: Select Interpreter
+    .\venv\Scripts\python.exe # On macOS/Linux use './venv/bin/python'
+    ```
+8. Install the required packages:
+   
+    ```sh
+    pip install -r requirements.txt
+    ```
+
+7. If you want to do a pull request which implies adding more dependencias, remember to update the requirements file using:
+   
+    ```sh
+    pip freeze > requirements.txt
+    ```
 
