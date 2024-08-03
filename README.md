@@ -17,15 +17,6 @@ Welcome to the **Language Model from Scratch** project! This repository is dedic
 ## Table of Contents 📑
 
 - [Installation](#installation)
-- [Usage](#usage)
-  - [Data Preparation](#data-preparation)
-  - [Training](#training)
-  - [Evaluation](#evaluation)
-  - [Inference](#inference)
-- [Directory Structure](#directory-structure)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 ## Installation 💻
 
