@@ -1,3 +1,6 @@
+PARA PODER USAR JUPYTER NOTEBOOK CON EL ENTORNO VIRTUAL QUE HAYA CREADO:
+    - python3 -m ipykernel install --user --name=venv --display-name "venvLLM"
+
 https://www.youtube.com/watch?v=UU1WVnMk4E8&t=13256s
 
 MINUTO: 2:32:00
